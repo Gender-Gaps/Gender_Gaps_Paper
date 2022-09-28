@@ -1,4 +1,4 @@
-# Gender Gaps
+# Gender Gap
 
 Project design: Studying barriers to firm profitability, growth, and entry into new markets has a long history in the economic discipline. The relatively more recent interest in gender inequality has spurred new studies into the determinants of existing gender gaps in firm characteristics and performance. 
 These more recent studies explore potential barriers unique to women-owned enterprises (WOE) mostly using the currently popular methods of randomized evaluation and observational case studies. As this body of evidence on gender gaps rapidly expands, there is an increasing need for a common framework and rigorous “stock taking” of what has already been investigated and where the highest value add would be for any potential new work. 
