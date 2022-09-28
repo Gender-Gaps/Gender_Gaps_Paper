@@ -5,4 +5,4 @@ These more recent studies explore potential barriers unique to women-owned enter
 Existing academic literature reviews of field-based work on firm barriers focus broadly on entrepreneurial barriers with limited attention to gender. Additionally, the burgeoning body of gender-focused empirical facts lacks the “lay of the land” foundational analysis enjoyed by its gender-neutral counterpart. 
 For example, Woodruff and Quinn (2019) is a meta-analysis of experimental work that has limited mention of gender, and Hsieh and Olken (2014) is an analysis of global data that does not mention gender. There is yet to exist a Blau and Kahn (2017) style paper for global gender enterprise gaps and we hope to fill this void.
 
-Link to replication [folder] (replication.md)
+Link to replication [folder](replication.md)
